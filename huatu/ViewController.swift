@@ -182,6 +182,8 @@ class BeisaiEr: UIView {
         
         context?.strokePath()
         
+        //发到手机覅积分
+        
     }
 
 }
